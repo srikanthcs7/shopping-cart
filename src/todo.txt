@@ -1,0 +1,9 @@
+1. lazy loading
+2. error boundaries
+3. middlewares to handle errors and loaders
+4. E2E and unit testing
+5. better type support
+6. Remove or refractor re-rendering issues
+7. Scope for more responsiveness
+
+
